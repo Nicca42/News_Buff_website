@@ -1,0 +1,1 @@
+{"ast":null,"code":"var cardFooterStyle = {\n  cardFooter: {\n    display: \"flex\",\n    alignItems: \"center\",\n    backgroundColor: \"transparent\",\n    padding: \"0.9375rem 1.875rem\"\n  }\n};\nexport default cardFooterStyle;","map":null,"metadata":{},"sourceType":"module"}

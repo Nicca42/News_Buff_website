@@ -1,0 +1,1 @@
+{"ast":null,"code":"var cardBodyStyle = {\n  cardBody: {\n    padding: \"0.9375rem 1.875rem\",\n    flex: \"1 1 auto\"\n  }\n};\nexport default cardBodyStyle;","map":null,"metadata":{},"sourceType":"module"}

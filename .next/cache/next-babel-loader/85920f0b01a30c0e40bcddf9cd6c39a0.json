@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { container } from \"assets/jss/nextjs-material-kit.js\";\nconst carouselStyle = {\n  section: {\n    padding: \"70px 0\"\n  },\n  container,\n  marginAuto: {\n    marginLeft: \"auto !important\",\n    marginRight: \"auto !important\"\n  }\n};\nexport default carouselStyle;","map":null,"metadata":{},"sourceType":"module"}

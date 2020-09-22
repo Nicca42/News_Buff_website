@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { container } from \"assets/jss/nextjs-material-kit.js\";\nvar tabsStyle = {\n  section: {\n    background: \"#EEEEEE\",\n    padding: \"70px 0\"\n  },\n  container: container,\n  textCenter: {\n    textAlign: \"center\"\n  }\n};\nexport default tabsStyle;","map":null,"metadata":{},"sourceType":"module"}
